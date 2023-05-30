@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
+#sketch_name{
+    color: black;
+}
+canvas{
+    border: 5px;
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px black;
+    box-shadow: 1px 1px 1px red;
+    animation-name: example;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
